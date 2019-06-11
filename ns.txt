@@ -1,0 +1,9 @@
+Tasks
+1. Perform pre and post build operations with  projects
+Create a freestyle Jenkins build job
+Add the Pre SCM Buildstep plugin from the Jenkins web UI
+Add pre build actions
+Execute a shell script to set environment variables before running a job
+Add post build actions
+Publish build results and send email notifications
+Archive artifacts
